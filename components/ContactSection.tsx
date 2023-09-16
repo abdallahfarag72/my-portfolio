@@ -110,7 +110,7 @@ const ContactSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top">
           <div className="md:w-full ">
             <h1 className="text-left text-2xl font-bold mb-6 md:text-left">
-              Let's stay in touch!
+              Let&apos;s stay in touch!
             </h1>
 
             <form className="w-full max-w-2xl mx-auto" onSubmit={handleSubmit}>
@@ -210,7 +210,7 @@ const ContactSection = () => {
               >
                 <strong className="font-bold">Message Sent! </strong>
                 <span className="block sm:inline">
-                  Can't wait to get back to you!
+                  Can&apos;t wait to get back to you!
                 </span>
                 <span className="absolute top-0 bottom-0 right-0 px-4 py-3">
                   <svg

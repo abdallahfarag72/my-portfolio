@@ -41,7 +41,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hello there! I'm Abdallah Azzam, a recent graduate from the
+              Hello there! I&apos;m Abdallah Azzam, a recent graduate from the
               Faculty of Agriculture at Cairo University, class of 2023. While
               my academic journey started with soil and crops, I soon found
               myself on a different path.
@@ -50,21 +50,22 @@ const AboutSection = () => {
             <p>
               After discovering my passion for technology, I took the leap into
               the world of web development, teaching myself the MERN stack from
-              the ground up. It's been a fascinating journey of self-discovery
-              and skill-building.
+              the ground up. It&apos;s been a fascinating journey of
+              self-discovery and skill-building.
             </p>
             <br />
             <p>
-              Now, I'm cultivating code instead of crops, and I'm excited to see
-              what kind of digital harvests I can yield. My goal is to create
-              intuitive and engaging web experiences that leave users coming
-              back for more.
+              Now, I&apos;m cultivating code instead of crops, and I&apos;m
+              excited to see what kind of digital harvests I can yield. My goal
+              is to create intuitive and engaging web experiences that leave
+              users coming back for more.
             </p>
             <br />
             <p>
-              So, whether it's food or code, I'm always eager to dive in and
-              create something special. Thanks for stopping by, and remember,
-              the only bugs I can't fix are the ones in the kitchen! 🐞🍳
+              So, whether it&apos;s food or code, I&apos;m always eager to dive
+              in and create something special. Thanks for stopping by, and
+              remember, the only bugs I can&apos;t fix are the ones in the
+              kitchen! 🐞🍳
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

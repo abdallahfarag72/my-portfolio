@@ -15,7 +15,7 @@ const HeroSection = () => {
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-32 md:flex-row md:space-x-4 md:text-left">
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-semibold mt-6 md:mt-0 md:text-6xl">
-            Hi! I'm <br />
+            Hi! I&apos;m <br />
             <span
               className={`bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent font-bold ${quicksand.className}`}
             >
